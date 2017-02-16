@@ -1,2 +1,2 @@
 # AM (After Midnight)
-A crossplatform TypeScript UI framework.
+A simple, small and crossplatform TypeScript platform.
